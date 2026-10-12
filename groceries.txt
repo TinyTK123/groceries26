@@ -4,3 +4,5 @@ lunchmeat
 cheese
 mayo
 bread
+chili
+hot dogs
