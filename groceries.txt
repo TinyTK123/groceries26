@@ -6,3 +6,6 @@ mayo
 bread
 chili
 hot dogs
+Smoothies
+lemongrass
+spinach
